@@ -1,5 +1,5 @@
-## Neoreva
-Welcome, there is not much to see here at the current moment.
+## Welcome
+There is not much to see here at the current moment.
 <!--
 
 **Here are some ideas to get you started:**
